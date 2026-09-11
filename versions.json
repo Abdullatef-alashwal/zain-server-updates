@@ -2,7 +2,7 @@
   "success": true,
   "versions": [
       {
-      "version": "1.1.0",
+      "version": "1.2.0",
       "releaseDate": "2026-09-07",
       "changelog": "إضافة نظام التحديثات التلقائي",
       "downloadUrl": "https://github.com/Abdullatef-alashwal/zain-server-updates/releases/download/v1.2.0/Zain-Server-v1.2.0.zip",
